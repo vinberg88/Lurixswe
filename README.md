@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lurixswe
 - 👀 I’m interested in creative writing
-- 🌱 I’m currently learning php,mysql and css/html
+- 🌱 I’m currently learning php, mysql and css/html for big project (Big data)
 - 💞️ I’m looking to collaborate!
 - 📫 How to reach me mattiaswinberg@hotmail.com
 
